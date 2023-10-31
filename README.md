@@ -7,8 +7,11 @@ Estoy buscando oportunidad para desempeñarme como analista de datos, actualment
 
 me pueden contactar al correo sergio.castle@gmail.com
 
+### Mis Proyectos/Desafios en FullStack Ruby on Rails
+
+
 ### Mis Proyectos/Desafios en Ciencia de Datos
 
 
-### mis Proyectos/Desafios en FullStack Ruby on Rails
+
 
