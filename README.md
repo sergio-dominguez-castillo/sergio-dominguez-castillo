@@ -1,7 +1,7 @@
 ### Hola 👋, me llamo Sergio Dominguez 
 
 
-Me desempeño como ingeniero en informatica, prestando servicio de consultoria par clientes de retail (Salcpobrand-Preunic) y (ABCdin-Dijon), he sido responsable de integraciones y soluciones como desarrollador en equipos multidiciplinarios.
+Me desempeño como ingeniero en informatica, prestando servicio de consultoria para clientes de retail (Salcobrand-Preunic) y (ABCdin-Dijon), he sido responsable de integraciones y soluciones como desarrollador en equipos multidisciplinarios.
 
 Estoy buscando oportunidad para desempeñarme como analista de datos, actualmente estoy realizando diplomado en Ciencia de Datos.
 
