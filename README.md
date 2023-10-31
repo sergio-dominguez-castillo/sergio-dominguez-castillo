@@ -1,16 +1,17 @@
-### Hi there 👋
+### Hola 👋, me llamo Sergio Dominguez 
 
 <!--
-**sergio-dominguez-castillo/sergio-dominguez-castillo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Me desempeño como ingeniero en informatica, prestando servicio de consultoria par clientes de retail (Salcpobrand-Preunic) y (ABCdin-Dijon), he sido responsable de integraciones y soluciones como desarrollador en equipos multidiciplinarios.
 
-Here are some ideas to get you started:
+Estoy buscando oportunidad para desempeñarme como analista de datos, actualmente estoy realizando diplomado en Ciencia de Datos.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+me pueden contactar al correo sergio.castle@gmail.com
+
+### Mis Proyectos/Desafios en Ciencia de Datos
+
+
+### mis Proyectos/Desafios en FullStack Ruby on Rails
+
+
+
 -->
