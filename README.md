@@ -1,4 +1,4 @@
-### Hola 👋, me llamo Sergio Dominguez 
+### Hola 👋, mi nombre es Sergio Dominguez 
 
 
 Me desempeño como ingeniero en informatica, prestando servicio de consultoria para clientes de retail (Salcobrand-Preunic) y (ABCdin-Dijon), he sido responsable de integraciones y soluciones como desarrollador en equipos multidisciplinarios.
