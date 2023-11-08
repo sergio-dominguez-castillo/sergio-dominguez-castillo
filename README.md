@@ -15,6 +15,8 @@ me pueden contactar al correo sergio.castle@gmail.com
 
 
 ### Mis Proyectos/Desafios en Ciencia de Datos
+- [Proyecto/desafío - Estadistica predictiva y probabilidades parte 1](https://github.com/sergio-dominguez-castillo/Estadistica_Descriptiva_y_Probabilidades_1.git)
+
 
 
 
