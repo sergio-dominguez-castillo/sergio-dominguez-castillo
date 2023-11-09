@@ -15,6 +15,7 @@ me pueden contactar al correo sergio.castle@gmail.com
 
 
 ### Mis Proyectos/Desafios en Ciencia de Datos
+#### Modulo Analisis Estadistico con Python
 - [Proyecto/desafío - Estadistica predictiva y probabilidades parte 1](https://github.com/sergio-dominguez-castillo/Estadistica_Descriptiva_y_Probabilidades_1.git)
 - [Proyecto/desafío - Estadistica predictiva y probabilidades parte 2](https://github.com/sergio-dominguez-castillo/Estadistica_predictiva_y_probabilidades_2.git)
 - [Proyecto/desafío - Variable Aleatoria parte 1](https://github.com/sergio-dominguez-castillo/Variable_Aleatoria_1.git)
