@@ -8,9 +8,7 @@ En pandemia di un giro y me encanto, ahora busco oportunidad para desarrollarme 
 
 Estoy buscando oportunidad para desempeñarme como analista de datos, actualmente estoy realizando diplomado en Ciencia de Datos en desafio Latam.
 
-me pueden contactar al correo sergio.castle@gmail.com
-
-[me puedes encontrar en linkedin](https://www.linkedin.com/in/sergio-dom%C3%ADnguez-castillo-sdcing) 
+[Correo](sergio.castle@gmail.com)  |  [Linkedin](https://www.linkedin.com/in/sergio-dom%C3%ADnguez-castillo-sdcing) 
 
 ### Mis Proyectos en Ciencia de Datos
 
