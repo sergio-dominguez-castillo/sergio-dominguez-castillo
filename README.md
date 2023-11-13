@@ -7,13 +7,6 @@ Estoy buscando oportunidad para desempeñarme como analista de datos, actualment
 
 me pueden contactar al correo sergio.castle@gmail.com
 
-### Mis Proyectos/Desafios en FullStack Ruby on Rails
-
-- [Proyecto/desafío KariPic](https://github.com/sergio-dominguez-castillo/KariPic)
-- [Proyecto/desafío Real News](https://github.com/sergio-dominguez-castillo/therialnews)
-- [Proyecto/desafío Portafolio muestra](https://github.com/sergio-dominguez-castillo/Desafio1_PortafolioSDC)
-
-
 ### Mis Proyectos/Desafios en Ciencia de Datos
 #### Modulo Analisis Estadistico con Python
 - [Proyecto/desafío - Estadistica predictiva y probabilidades parte 1](https://github.com/sergio-dominguez-castillo/Estadistica_Descriptiva_y_Probabilidades_1.git)
