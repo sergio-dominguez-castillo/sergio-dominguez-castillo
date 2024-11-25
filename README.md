@@ -10,6 +10,11 @@ Estoy buscando oportunidad para desempeñarme como analista de datos, actualment
 
 [Correo](sergio.castle@gmail.com)  |  [Linkedin](https://www.linkedin.com/in/sergio-dom%C3%ADnguez-castillo-sdcing) 
 
+### Mis Proyectos en Android
+
+- [Proyecto - M5 - Ejercicio Individual 15](https://github.com/sergio-dominguez-castillo/m5_ejercicio_individual_15.git)
+
+
 ### Mis Proyectos en Ciencia de Datos
 
 #### Modulo Python para el analisis de datos
@@ -26,7 +31,7 @@ Estoy buscando oportunidad para desempeñarme como analista de datos, actualment
 - [Proyecto - Estadistica Inferencial](https://github.com/sergio-dominguez-castillo/Estadistica_inferencial.git)
 - [Proyecto - Regresion Lineal](https://github.com/sergio-dominguez-castillo/Regresion_Lineal.git)
 
-### Mis Proyectos en Android
+
   
 
 
